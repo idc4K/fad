@@ -1,0 +1,478 @@
+
+
+#message-area{
+    background : radial-gradient(rgba(0, 0, 0, 0.616),rgba(10, 2, 2, 7)), url(image/fond.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#titre{
+    padding-top: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+    color:white;
+    font-size: 50px;
+    font-family: 'Fjalla One', sans-serif;
+}
+#bouton-area{
+    display: inline-flex;
+    flex: wrap;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#bouton-single1{
+    margin-left: 470px;
+    margin-bottom: 350px;
+    margin-top: 105px;
+}
+#bouton-single2{
+    margin-left: 160px;
+    margin-bottom: 350px;
+    margin-top: 105px ;
+}
+.fas{
+    color: black;
+    
+}
+.fa{
+    color: black;
+}
+#btn1{
+
+    background: var(--main-red);
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: center;
+    box-shadow: 0 1px #00000033;
+    cursor: pointer;
+    background-color: red;
+
+}
+#btn2 {
+    background: var(--main-red);
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: center;
+    box-shadow: 0 1px #00000033;
+    cursor: pointer;
+    background-color: red;
+
+}
+#btn1:hover {
+    background-color: rgb(235, 28, 28);
+    transition-duration: 1s;
+}
+#btn2:hover {
+    background-color: rgb(235, 28, 28);
+    transition-duration: 1s;
+}
+@media screen and (max-width: 1357px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 360px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 160px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 1300px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 320px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 160px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 1300px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 280px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 160px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 1200px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 250px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 160px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 1083px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 200px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 160px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 970px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 180px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 140px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 885px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 150px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 130px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 835px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 120px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 110px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 785px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 100px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 90px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 735px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 80px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 70px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 700px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 37px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 70px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 60px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 650px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 37px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 50px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 40px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 600px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 37px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 20px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 20px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 547px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:white;
+        font-size: 37px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 5px;
+        margin-bottom: 350px;
+        margin-top: 105px;
+    }
+    #bouton-single2{
+        margin-left: 15px;
+        margin-bottom: 350px;
+        margin-top: 105px ;
+    }
+
+}
+@media screen and (max-width: 526px){
+    #titre{
+        padding-top: 10px;
+        padding-bottom: 20px;
+        text-align: center;
+        color:white;
+        font-size: 37px;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    #bouton-area{
+        display: inline-flex;
+        flex: wrap;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #bouton-single1{
+        margin-left: 5px;
+        margin-bottom: 20px;
+        margin-top: 50px;
+    }
+    #bouton-single2{
+        margin-left: 15px;
+        margin-bottom: 320px;
+        margin-top: 20px ;
+    }
+
+}
